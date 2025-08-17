@@ -1,0 +1,48 @@
+# -----------------------
+# Python / PyTorch
+# -----------------------
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# PyTorch model checkpoints
+*.pth
+best_vgg16_alzheimer.pth
+
+# Dataset folders
+Model1/Split data/train/
+Model1/Split data/val/
+Model1/Split data/test/
+
+# Logs, cache, outputs
+*.log
+*.out
+*.csv
+*.h5
+*.npz
+*.npy
+*.pickle
+*.pkl
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
