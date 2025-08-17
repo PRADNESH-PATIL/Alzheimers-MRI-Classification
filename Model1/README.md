@@ -74,8 +74,8 @@ Dataset splitting is done using the [`split-folders`](https://pypi.org/project/s
 
 #### 🚀 How to Run
 1. Clone this repository
- -  git clone https://github.com/your-username/alzheimers-mri-classification.git
- -  cd alzheimers-mri-classification
+ -  git clone https://github.com/PRADNESH-PATIL/Alzheimers-MRI-Classification.git
+ 
 
 2. Install dependencies
 
